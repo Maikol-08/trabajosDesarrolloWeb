@@ -1,0 +1,23 @@
+# ☕ Café Aroma
+
+Una página web para una cafetería llamada **Café Aroma**, desarrollada con **Bootstrap 5** y **JavaScript puro**.
+
+## 🌟 Características
+
+- Diseño responsive usando `container`, `row`, y `col`.
+- Componentes de **Bootstrap**:
+  - Navbar
+  - Cards (productos)
+  - Modal
+  - Botones
+- Formulario de inicio de sesión con validación simple.
+- Interactividad con JavaScript (alertas y mensajes dinámicos).
+- Archivos organizados (HTML, CSS, JS separados).
+
+## 🧩 Tecnologías usadas
+
+- HTML5  
+- CSS3  
+- Bootstrap 5  
+- JavaScript Vanilla
+
